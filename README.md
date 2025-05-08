@@ -13,7 +13,11 @@ A simple Android weather forecast app built using **Kotlin** and the **Android S
 - ✅ No third-party libraries (e.g., Retrofit, Coroutines, Room, etc.)
 
 ## 📸 Screenshots
+### Main UI:
+![Image](https://github.com/user-attachments/assets/42032ba0-4a6b-45d7-92a7-e61a19e2437a)
 
+### Hourly Weather View:
+![Image](https://github.com/user-attachments/assets/d2d9b6a6-e060-45dc-ae1c-972e0cb2d971)
 
 ## 🛠️ Technologies Used
 
