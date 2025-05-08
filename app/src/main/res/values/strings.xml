@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="_19">19°</string>
+    <string name="clear">Clear</string>
+    <string name="max_24_min_18">Max: 24° Min:18°</string>
+    <string name="today">Today</string>
+    <string name="july_21">July, 21</string>
+    <string name="_5_days_forecasts">5-Days Forecasts</string>
+    <string name="egypt">Egypt</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="_3_low_health_risk">3-Low Health Risk</string>
+    <string name="sunrise">SUNRISE</string>
+    <string name="uv_index">UV INDEX</string>
+    <string name="view_the_up_coming_5_days">View The Up coming 5 Days</string>
+</resources>
